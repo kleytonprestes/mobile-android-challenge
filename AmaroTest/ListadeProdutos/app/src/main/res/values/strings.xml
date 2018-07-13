@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lista de Produtos</string>
+
+    <string name="price">Preço: %s</string>
+    <string name="sale_off">Preço Promocional: </string>
+    <string name="sizes">Tamanhos Disponíveis: </string>
+</resources>
